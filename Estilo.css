@@ -1,0 +1,56 @@
+h1 {
+    color: rgb(34, 34, 34);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(174, 224, 224);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(196, 69, 31);
+    background-color: rgb(163, 209, 221);
+    text-align: center;
+}
+
+p {
+    color: rgb(54, 54, 54);
+    background-color: rgb(255, 255, 255);
+    font-weight: 800;
+}
+
+.datospersonales {
+    color: rgb(196, 69, 31);
+    background-color: rgb(163, 209, 221);
+    font-size: 20px;
+
+}
+
+.gradiente {
+    width: 350px;
+    height: 220px;
+    padding: 10px;
+    background: rgb(253, 255, 255);
+    background: linear-gradient(0deg, rgba(253, 255, 255, 1) 0%, rgb(152, 206, 241) 100%);
+    border-radius: 20px;
+    border: 2px solid rgb(107, 139, 160);
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 10px rgb(140, 140, 143);
+}
+
+.listas {
+    width: 350px;
+    height: 220px;
+    padding: 10px;
+    background-color: rgb(247, 223, 159);
+    border: 2px solid rgb(160, 146, 107);
+    border-radius: 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 10px rgb(143, 81, 31);
+}
+
+.parrafo {
+    width: 650px;
+    height: 220px;
+    padding: 10px;
+    border: 2px solid rgb(107, 139, 160);
+    box-shadow: 5px 5px 10px rgb(140, 140, 143);
+}
